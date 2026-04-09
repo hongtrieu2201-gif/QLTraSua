@@ -31,7 +31,7 @@ Project được tổ chức theo mô hình nhiều tầng để dễ bảo trì
 - **IDE khuyến nghị:** NetBeans
 - **Quản lý mã nguồn:** Git, GitHub
 
----
+
 
 ## 📂 Cấu trúc thư mục
 
@@ -51,11 +51,12 @@ QLTraSua/
 ├─ build/           # File build
 └─ manifest.mf
 
-## Demo
-
-## Demo
+---
+## 📸 Demo
 
 ![demo-1](https://github.com/user-attachments/assets/a5776b9e-8e61-4805-a643-c4f90ab85fd4)
 
 ![demo-2](https://github.com/user-attachments/assets/068a3b8b-2331-4125-b524-3311dcee446f)
+
+
 
