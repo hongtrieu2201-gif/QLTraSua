@@ -53,7 +53,9 @@ QLTraSua/
 
 ## Demo
 
-<img width="567" height="432" alt="demo-1" src="https://github.com/user-attachments/assets/a5776b9e-8e61-4805-a643-c4f90ab85fd4" />
+## Demo
 
-<img width="1607" height="980" alt="demo-2" src="https://github.com/user-attachments/assets/068a3b8b-2331-4125-b524-3311dcee446f" />
+![demo-1](https://github.com/user-attachments/assets/a5776b9e-8e61-4805-a643-c4f90ab85fd4)
+
+![demo-2](https://github.com/user-attachments/assets/068a3b8b-2331-4125-b524-3311dcee446f)
 
