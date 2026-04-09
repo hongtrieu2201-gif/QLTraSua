@@ -52,6 +52,8 @@ QLTraSua/
 └─ manifest.mf
 
 ## Demo
-<img width="567" height="432" alt="image" src="https://github.com/user-attachments/assets/a5776b9e-8e61-4805-a643-c4f90ab85fd4" />
-<img width="1607" height="980" alt="image" src="https://github.com/user-attachments/assets/068a3b8b-2331-4125-b524-3311dcee446f" />
+
+<img width="567" height="432" alt="demo-1" src="https://github.com/user-attachments/assets/a5776b9e-8e61-4805-a643-c4f90ab85fd4" />
+
+<img width="1607" height="980" alt="demo-2" src="https://github.com/user-attachments/assets/068a3b8b-2331-4125-b524-3311dcee446f" />
 
