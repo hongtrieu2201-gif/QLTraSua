@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/hocc/netbean/QLTraSua/src/util/DBConnection.java</file>
+            <file>file:/D:/hocc/netbean/QLTraSua/src/dto/NhanVienDTO.java</file>
+            <file>file:/D:/hocc/netbean/QLTraSua/src/dao/NhanVienDAO.java</file>
+            <file>file:/D:/hocc/netbean/QLTraSua/src/util/GenerateID.java</file>
+            <file>file:/D:/hocc/netbean/QLTraSua/src/util/TableModelUtil.java</file>
+            <file>file:/D:/hocc/netbean/QLTraSua/src/dto/TaiKhoanDTO.java</file>
+            <file>file:/D:/hocc/netbean/QLTraSua/src/dto/KhachHangDTO.java</file>
+            <file>file:/D:/hocc/netbean/QLTraSua/src/dto/MonTraSuaDTO.java</file>
+            <file>file:/D:/hocc/netbean/QLTraSua/src/dto/ToppingDTO.java</file>
+            <file>file:/D:/hocc/netbean/QLTraSua/src/dto/HoaDonDTO.java</file>
+            <file>file:/D:/hocc/netbean/QLTraSua/src/dto/ChiTietHoaDonDTO.java</file>
+            <file>file:/D:/hocc/netbean/QLTraSua/src/dto/NguyenLieuDTO.java</file>
+            <file>file:/D:/hocc/netbean/QLTraSua/src/dao/KhachHangDAO.java</file>
+            <file>file:/D:/hocc/netbean/QLTraSua/src/dao/MonTraSuaDAO.java</file>
+            <file>file:/D:/hocc/netbean/QLTraSua/src/gui/LoginGUI.java</file>
+            <file>file:/D:/hocc/netbean/QLTraSua/src/dao/ThongKeDAO.java</file>
+            <file>file:/D:/hocc/netbean/QLTraSua/src/dao/HoaDonDAO.java</file>
+            <file>file:/D:/hocc/netbean/QLTraSua/src/gui/MainFrame.java</file>
+            <file>file:/D:/hocc/netbean/QLTraSua/src/gui/BanHangGUI.java</file>
+            <file>file:/D:/hocc/netbean/QLTraSua/src/gui/NhanVienGUI.java</file>
+            <file>file:/D:/hocc/netbean/QLTraSua/src/gui/KhachHangGUI.java</file>
+            <file>file:/D:/hocc/netbean/QLTraSua/src/gui/MonTraSuaGUI.java</file>
+            <file>file:/D:/hocc/netbean/QLTraSua/src/gui/ToppingGUI.java</file>
+            <file>file:/D:/hocc/netbean/QLTraSua/src/gui/ThongKeGUI.java</file>
+            <file>file:/D:/hocc/netbean/QLTraSua/src/bus/NhanVienBUS.java</file>
+            <file>file:/D:/hocc/netbean/QLTraSua/src/bus/KhachHangBUS.java</file>
+            <file>file:/D:/hocc/netbean/QLTraSua/src/bus/HoaDonBUS.java</file>
+            <file>file:/D:/hocc/netbean/QLTraSua/src/bus/ThongKeBUS.java</file>
+            <file>file:/D:/hocc/netbean/QLTraSua/src/dao/TaiKhoanDAO.java</file>
+            <file>file:/D:/hocc/netbean/QLTraSua/src/bus/TaiKhoanBUS.java</file>
+            <file>file:/D:/hocc/netbean/QLTraSua/src/main/Main.java</file>
+            <file>file:/D:/hocc/netbean/QLTraSua/src/dao/ToppingDAO.java</file>
+            <file>file:/D:/hocc/netbean/QLTraSua/src/dao/NguyenLieuDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
