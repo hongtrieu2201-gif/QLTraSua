@@ -1,6 +1,9 @@
 # ☕ QLTraSua - Phần mềm Quản Lý Trà Sữa
 
 Phần mềm quản lý quán trà sữa được xây dựng bằng **Java Swing** và **SQL Server**, phù hợp cho đồ án sinh viên với mục tiêu **dễ hiểu, dễ chạy, dễ chỉnh sửa và đủ thực tế để demo**.
+<img width="537" height="433" alt="image" src="https://github.com/user-attachments/assets/9a84e122-b052-478f-aa82-f5a622675c4b" />
+
+<img width="1612" height="968" alt="image" src="https://github.com/user-attachments/assets/4348d639-0f19-45fe-818a-ecc772456b07" />
 
 ---
 
@@ -51,12 +54,7 @@ QLTraSua/
 ├─ build/           # File build
 └─ manifest.mf
 
----
-## 📸 Demo
 
-![demo-1](https://github.com/user-attachments/assets/a5776b9e-8e61-4805-a643-c4f90ab85fd4)
-
-![demo-2](https://github.com/user-attachments/assets/068a3b8b-2331-4125-b524-3311dcee446f)
 
 
 
